@@ -1,0 +1,7 @@
+success,goals,collisions,time_s,distinct,crowding,algo,method,seed
+0.54,2.395,11.63,21.6,0.66,0.1,ippo,difference,0
+0.485,2.255,23.06,23.288659793814432,0.65,0.08,ippo,global,0
+0.13,1.895,7.375,11.746153846153847,0.13,0.755,ippo,individual,0
+0.515,2.385,21.795,21.155339805825246,0.59,0.12,mappo,difference,0
+0.54,2.355,13.925,22.30740740740741,0.685,0.05,mappo,global,0
+0.125,1.885,20.9,12.004000000000001,0.13,0.73,mappo,individual,0
