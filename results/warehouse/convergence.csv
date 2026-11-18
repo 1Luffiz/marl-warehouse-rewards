@@ -1,0 +1,13 @@
+algo,method,threshold,steps_mean,steps_std,reached
+IPPO,difference reward,50%,325632.0,0.0,1/1
+IPPO,difference reward,70%,590848.0,0.0,1/1
+IPPO,глобальное,50%,340992.0,0.0,1/1
+IPPO,глобальное,70%,984064.0,0.0,1/1
+IPPO,индивидуальное,50%,,,0/1
+IPPO,индивидуальное,70%,,,0/1
+MAPPO,difference reward,50%,235520.0,0.0,1/1
+MAPPO,difference reward,70%,497664.0,0.0,1/1
+MAPPO,глобальное,50%,324608.0,0.0,1/1
+MAPPO,глобальное,70%,665600.0,0.0,1/1
+MAPPO,индивидуальное,50%,,,0/1
+MAPPO,индивидуальное,70%,,,0/1
