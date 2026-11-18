@@ -1,0 +1,7 @@
+numpy>=2.0
+torch>=2.3
+pettingzoo>=1.24
+gymnasium>=1.0
+pandas
+matplotlib
+pyyaml
