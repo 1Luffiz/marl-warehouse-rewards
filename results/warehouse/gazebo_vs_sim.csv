@@ -1,0 +1,4 @@
+model,scenario,sim_success,sim_time_s,gazebo_success,gazebo_time_s,gz_goals,gz_touch
+mappo_difference_s0,0,True,23.8,True,30.9,3,0
+mappo_difference_s0,1,True,11.3,True,12.8,3,0
+mappo_difference_s0,2,False,40.0,False,40.0,2,0
