@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+gazebo_ws/build/
+gazebo_ws/install/
+gazebo_ws/log/
+logs/*/console/
